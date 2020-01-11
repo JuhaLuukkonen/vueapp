@@ -1,3 +1,5 @@
+Author: Juha Luukkonen
+
 # vueapp
 
 ## Project setup
