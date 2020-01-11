@@ -1,5 +1,7 @@
 Author: Juha Luukkonen
 
+Deployed: https://juhan-vueapp.herokuapp.com/
+
 # vueapp
 
 ## Project setup
